@@ -71,7 +71,7 @@ O projeto identificou padrões importantes, como:
 **Felipe Vilela**  
 📧 [felipevilela1903@gmail.com](mailto:felipevilela1903@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/felipe-vilela-594372362/)  
-🐙 [GitHub](https://github.com/felipevilela)
+🐙 [GitHub](https://github.com/felipe-vilela1903)
 
 ---
 
